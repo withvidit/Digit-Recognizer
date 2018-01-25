@@ -26,4 +26,4 @@ libraries used
 * sklearn (scikit-learn)
 * matplotlib
 
-Special thanks to https://github.com/dzhibas for elegantly documenting the project which helped a lot in creating this project
+Special thanks to https://github.com/dzhibas for elegantly documenting his project which helped a lot in creating this project
